@@ -2,4 +2,4 @@
 
 ## Contributers
 
-Sarah Salah
+Sarah **Salah**
